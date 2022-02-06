@@ -2,7 +2,7 @@
   <img src="https://github.com/SalesforcePlatformGovernanceMethod/Phase-I/blob/6634a487e20014769e6c3dbeb8c5c580b1194c20/images/phase-i.png" title="Phase I">
 </p>
 
-## Phase I: Development Lifecycle &amp; Deployment
+# Phase I: Development Lifecycle &amp; Deployment
 
 - [Developer Standards](https://architect.salesforce.com/deliver/release-management-templates/development-standards/#What_To_Include_In_Your_Development_Standards)
 
